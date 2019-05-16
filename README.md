@@ -1,7 +1,8 @@
-Burger Quiz
+Burger Quiz [Marjorie's Version]
 ===========
 
 This is a Processing app to host the famous TV quizz show at home.
+This version is dedicated to our friend Marjorie and customized to display images for her, don't fork it :D 
 
 Screenshots
 -----------
